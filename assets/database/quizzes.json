@@ -5,7 +5,7 @@
         "questionAnswered": 1,
         "level": "facil",
         "questions": [
-            { "title": "Está curtiond o Flutter?", 
+            { "title": "Está curtindo o Flutter?", 
                 "answers": [
                     {"title": "Estou curtindo"},
                     {"title": "Amando Flutter"},
@@ -13,7 +13,7 @@
                     {"title": "Show de bola!", "isRight": true}
                 ] 
             },
-            { "title": "Está curtiond o Flutter?", 
+            { "title": "Está curtindo o Flutter?", 
                 "answers": [
                     {"title": "Estou curtindo"},
                     {"title": "Amando Flutter"},
